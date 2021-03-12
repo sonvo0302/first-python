@@ -1,0 +1,17 @@
+{% extends 'polls/base.html' %}
+
+
+{% block content123 %}
+<body>
+    <h1>This is template</h1>
+    <p>Hello {{name}}</p>
+    <h2>Tai san cua toi gom</h2>
+    <ul>
+        {% for item in taisan %}
+            {% if item != 'Laptop' %}
+                <li>{{item}}</li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</body>
+{% endblock %}

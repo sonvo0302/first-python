@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .button {
+          background-color: #4CAF50; /* Green */
+          border: none;
+          color: white;
+          padding: 5px 10px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 4px 2px;
+          transition-duration: 0.4s;
+          cursor: pointer;
+        }
+        .button1 {
+          background-color: white;
+          color: black;
+          border: 2px solid #4CAF50;
+        }
+
+        .button1:hover {
+          background-color: #4CAF50;
+          color: white;
+        }
+
+        .button2 {
+          background-color: white;
+          color: black;
+          border: 2px solid #008CBA;
+        }
+
+        .button2:hover {
+          background-color: #008CBA;
+          color: white;
+        }
+
+        .button3 {
+          background-color: white;
+          color: black;
+          border: 2px solid #f44336;
+        }
+
+        .button3:hover {
+          background-color: #f44336;
+          color: white;
+        }
+
+        .button4 {
+          background-color: white;
+          color: black;
+          border: 2px solid #e7e7e7;
+        }
+
+        .button4:hover {background-color: #e7e7e7;}
+
+        .button5 {
+          background-color: white;
+          color: black;
+          border: 2px solid #555555;
+        }
+
+        .button5:hover {
+          background-color: #555555;
+          color: white;
+        }
+    </style>
+</head>
+<body>
+    <div style="margin-bottom:20px"><a href="{% url 'news:add_post' %}" class="button button2">+ Add post</a></div>
+    <div>
+        <table border="1px solid black" >
+            <tr>
+                <th>ID</th>
+                <th>Tiêu đề</th>
+                <th>Nội dung</th>
+                <th>Ngày tạo</th>
+                <th>Tùy chọn</th>
+            </tr>
+            {% for item in list %}
+            <tr>
+                <td>{{item.id}}</td>
+                <td>{{item.title}}</td>
+                <td>{{item.content}}</td>
+                <td>{{item.created_at}}</td>
+                <td><a href="{% url 'news:update_post' item.id %}" class="button button1">Update</a> || <a href="{% url 'news:delete_post' item.id %}" class="button button3">Delete</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</body>
+</html>

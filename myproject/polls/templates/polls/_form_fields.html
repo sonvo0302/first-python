@@ -1,0 +1,17 @@
+{% extends 'polls/base.html' %}
+
+{% block content123 %}
+        <form action="{% url 'polls:new_choice' %}" method="post">
+            {% csrf_token %}
+            <div>
+                <label>Question</label>
+                <select name="question_id">
+                {% for item in question %}
+                    <option selected label="{{ item.question_text }}" value="{{ item.id }}"></option>
+                {% endfor %}
+                </select>
+            </div>
+            <p><input type="text" name="text_choice" ></p>
+            <p><input type="submit" value="Submit"></p>
+        </form>
+{% endblock %}

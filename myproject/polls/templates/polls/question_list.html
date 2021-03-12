@@ -1,0 +1,13 @@
+{% extends 'polls/base.html' %}
+
+{% block content123 %}
+    {% if dsquest %}
+<!--        <p>{{dsquest.question_text}}</p>-->
+        {% for item in dsquest %}
+            <p><a href="{% url 'polls:view_detail_list' item.id %}">{{item.question_text}}</a></p>
+        {% endfor %}
+        <a href="{% url 'polls:new_choice' %}">Thêm mới</a>
+    {% else %}
+        <h3 style="color:red;">Không có dữ liệu câu hỏi nào</h3>
+    {% endif %}
+{% endblock %}

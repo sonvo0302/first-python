@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4953cb0f-1bc5-4b15-a5a6-8e606b9bfc42" name="Default Changelist" comment="HEllO" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1pBQQ2Id1THJnwEDOWVZtluv5j5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4953cb0f-1bc5-4b15-a5a6-8e606b9bfc42" name="Default Changelist" comment="" />
+      <created>1614653983199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614653983199</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HEllo">
+      <created>1615509843942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615509843942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HEllo" />
+    <option name="LAST_COMMIT_MESSAGE" value="HEllo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="313" key="#Notifications" timestamp="1615466650158">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="828" y="313" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1615466650158" />
+    <state x="795" y="318" key="#Updates" timestamp="1615466666364">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="795" y="318" key="#Updates/0.0.1536.864@0.0.1536.864" timestamp="1615466666364" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615302168074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1615302168074" />
+    <state x="725" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615381601758">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="725" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1615381601758" />
+    <state x="548" y="137" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1615302156278">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="137" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.864@0.0.1536.864" timestamp="1615302156278" />
+    <state x="548" y="173" key="FileChooserDialogImpl" timestamp="1615509750409">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615509750409" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1615510122607">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1615510122607" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1615510163724">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1615510163724" />
+    <state x="650" y="166" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1615509831268">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="650" y="166" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.864@0.0.1536.864" timestamp="1615509831268" />
+    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615509714177">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1615509714177" />
+    <state x="585" y="326" key="git4idea.ui.GitResetDialog" timestamp="1615509973372">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="585" y="326" key="git4idea.ui.GitResetDialog/0.0.1536.864@0.0.1536.864" timestamp="1615509973372" />
+    <state x="634" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1615381168620">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="634" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1615381168620" />
+  </component>
+</project>

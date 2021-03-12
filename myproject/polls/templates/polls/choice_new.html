@@ -1,0 +1,22 @@
+{% extends 'polls/base.html' %}
+
+{% block content123 %}
+        <form action="{% url 'polls:new_choice' %}" method="post">
+            {% csrf_token %}
+            {{form}}
+<!--            <div>-->
+<!--                <label>Question</label>-->
+<!--                <select name="dropdown1">-->
+<!--                {% for item in question %}-->
+<!--                    {% if item.id == choice.question %}-->
+<!--                        <option selected label="{{ item.question_text }}" value="{{ item.id }}"></option>-->
+<!--                    {% else %}-->
+<!--                        <option  label="{{ item.question_text }}" value="{{ item.id }}"></option>-->
+<!--                    {% endif %}-->
+<!--                    {% endfor %}-->
+<!--                </select>-->
+<!--            </div>-->
+<!--            <p><input type="text" name="text_choice" ></p>-->
+            <p><input type="submit" value="Submit"></p>
+        </form>
+{% endblock %}
