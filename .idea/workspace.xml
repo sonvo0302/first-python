@@ -10,7 +10,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4953cb0f-1bc5-4b15-a5a6-8e606b9bfc42" name="Default Changelist" comment="HEllO" />
+    <list default="true" id="4953cb0f-1bc5-4b15-a5a6-8e606b9bfc42" name="Default Changelist" comment="HEllO">
+      <change afterPath="$PROJECT_DIR$/demoform/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/demoform/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/demoform/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/demoform/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/demoform/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/add_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/news_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/post_update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/print_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoform/news/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demoform" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1pBQQ2Id1THJnwEDOWVZtluv5j5" />
