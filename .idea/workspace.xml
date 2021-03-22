@@ -10,29 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4953cb0f-1bc5-4b15-a5a6-8e606b9bfc42" name="Default Changelist" comment="HEllO">
-      <change afterPath="$PROJECT_DIR$/demoform/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/demoform/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/demoform/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/demoform/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/demoform/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/add_new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/news_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/post_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/templates/news/print_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoform/news/views.py" afterDir="false" />
+    <list default="true" id="4953cb0f-1bc5-4b15-a5a6-8e606b9bfc42" name="Default Changelist" comment="all change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoform/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/demoform/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +63,44 @@
       <option name="project" value="LOCAL" />
       <updated>1615509843942</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all change">
+      <created>1615822869699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615822869699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -96,11 +108,17 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HEllo" />
-    <option name="LAST_COMMIT_MESSAGE" value="HEllo" />
+    <MESSAGE value="all change" />
+    <option name="LAST_COMMIT_MESSAGE" value="all change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="313" key="#Notifications" timestamp="1615466650158">
@@ -139,10 +157,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="650" y="166" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.864@0.0.1536.864" timestamp="1615509831268" />
-    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615509714177">
+    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615822973449">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1615509714177" />
+    <state x="579" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1615822973449" />
     <state x="585" y="326" key="git4idea.ui.GitResetDialog" timestamp="1615509973372">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

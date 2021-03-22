@@ -8,10 +8,7 @@ class index(View):
     def get(self,request):
         ketqua = 'Hello World'
         return HttpResponse(ketqua)
-# class PostClass(View):
-#     def get(self,request):
-#         c=PostForm()
-#         return render(request,'news/add_new.html',{'post':c})
+
 
 class PostClass(View):
     def get(self,request):
